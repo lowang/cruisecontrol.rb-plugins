@@ -12,7 +12,7 @@ Main difference to git_branch_trigger.rb is that by using
 hash structure branch => sha1 it's able to 
 detect change in branch that was added a long time ago.
 
-=== Installation:
+### Installation:
 
 - create special project called your_project-feature
 - inside this project use custom build script that will switch branch to
